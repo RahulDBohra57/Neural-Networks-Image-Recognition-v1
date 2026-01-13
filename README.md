@@ -12,17 +12,16 @@ The model is trained on Fashion-MNIST, a benchmark dataset of grayscale clothing
 Fashion-MNIST consists of 70,000 grayscale images (28×28 pixels) belonging to 10 classes:
 
 Label	Class:
-0	T-shirt / Top
-1	Trouser
-2	Pullover
-3	Dress
-4	Coat
-5	Sandal
-6	Shirt
-7	Sneaker
-8	Bag
-9	Ankle Boot
-
+- 0	T-shirt / Top
+- 1	Trouser
+- 2	Pullover
+- 3	Dress
+- 4	Coat
+- 5	Sandal
+- 6	Shirt
+- 7	Sneaker
+- 8	Bag
+- 9	Ankle Boot
 
 ⚙️ Model Architecture
 
